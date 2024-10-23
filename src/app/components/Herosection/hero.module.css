@@ -1,0 +1,33 @@
+.hero {
+    background-size: cover;
+    background-position: center;
+    padding: 100px 20px;
+    text-align: center;
+    color: rgb(224, 223, 223);
+  }
+  
+  .herotitle {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .herosubtitle {
+    font-size: 21px;
+    margin-bottom: 40px;
+    border-radius: 6px;
+    background-color: #040403;
+  }
+  
+  .herobutton {
+    background-color: #ded2cc;
+    border: none;
+    padding: 15px 30px;
+    font-size: 10px;
+    color: rgb(11, 12, 11);
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  .herobutton:hover {
+    background-color: #c7c5ba;
+  }
